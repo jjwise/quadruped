@@ -1,3 +1,3 @@
 # quadruped
 
-esp8266 qurdruped.
+esp8266 quadruped robot.
